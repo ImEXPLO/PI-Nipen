@@ -1,0 +1,19 @@
+{
+    "name": "victorsilva/lojanipen",
+    "description": "Projeto da Aula de Programação para Internet do Curso de GTI da Fatec Jahu.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Silva",
+            "email": "victor.silva312@fatec.sp.gov.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
